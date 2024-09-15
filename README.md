@@ -1,3 +1,3 @@
 primer intento de hacer un server que sea mejor que aternos
 todo por empanada de guiso
-te ami AJ1
+te amo AJ1
